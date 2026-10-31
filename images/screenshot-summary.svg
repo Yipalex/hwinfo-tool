@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="560" viewBox="0 0 760 560" font-family="Microsoft YaHei UI, PingFang SC, Segoe UI, sans-serif">
+  <!-- window -->
+  <rect width="760" height="560" fill="#ffffff" stroke="#c8c8c8"/>
+  <!-- title bar -->
+  <rect width="760" height="34" fill="#f3f3f3"/>
+  <line x1="0" y1="34" x2="760" y2="34" stroke="#dcdcdc"/>
+  <circle cx="18" cy="17" r="6" fill="#4a90d9"/>
+  <text x="32" y="21" font-size="13" fill="#333333">硬件检测工具 v1.5.0</text>
+  <!-- toolbar -->
+  <rect x="12" y="44" width="78" height="26" rx="4" fill="#ffffff" stroke="#adadad"/>
+  <text x="51" y="61" font-size="12" fill="#222222" text-anchor="middle">重新检测</text>
+  <rect x="98" y="44" width="90" height="26" rx="4" fill="#ffffff" stroke="#adadad"/>
+  <text x="143" y="61" font-size="12" fill="#222222" text-anchor="middle">复制当前页</text>
+  <rect x="196" y="44" width="78" height="26" rx="4" fill="#ffffff" stroke="#adadad"/>
+  <text x="235" y="61" font-size="12" fill="#222222" text-anchor="middle">导出报告</text>
+  <text x="748" y="61" font-size="12" fill="#666666" text-anchor="end">管理员权限</text>
+  <!-- tab bar -->
+  <line x1="8" y1="102" x2="752" y2="102" stroke="#c8c8c8"/>
+  <rect x="12" y="80" width="96" height="23" fill="#ffffff" stroke="#c8c8c8" stroke-bottom="none"/>
+  <line x1="12" y1="102" x2="108" y2="102" stroke="#ffffff" stroke-width="2"/>
+  <rect x="12" y="80" width="96" height="3" fill="#4a90d9"/>
+  <text x="60" y="96" font-size="12" fill="#222222" text-anchor="middle" font-weight="bold">简约概览</text>
+  <text x="156" y="96" font-size="12" fill="#777777" text-anchor="middle">详细参数</text>
+  <!-- summary content -->
+  <text x="32" y="146" font-size="21" font-weight="bold" fill="#1a1a1a">DESKTOP-G2AEE8D 台式电脑</text>
+  <text x="32" y="172" font-size="12.5" fill="#777777">Microsoft Windows 11 专业版（内部版本 28000，64 位）</text>
+  <g font-size="14">
+    <text x="32" y="212" font-weight="bold" fill="#1a1a1a">处理器</text>
+    <text x="118" y="212" fill="#333333">AMD Ryzen 5 5600GT with Radeon Graphics（六核 12 线程）</text>
+    <text x="32" y="252" font-weight="bold" fill="#1a1a1a">内存</text>
+    <text x="118" y="252" fill="#333333">32 GB（A-DATA DDR4 3200MHz 16GB × 2）</text>
+    <text x="32" y="292" font-weight="bold" fill="#1a1a1a">显卡</text>
+    <text x="118" y="292" fill="#333333">NVIDIA GeForce RTX 3060（12 GB）</text>
+    <text x="32" y="332" font-weight="bold" fill="#1a1a1a">主板</text>
+    <text x="118" y="332" fill="#333333">Gigabyte B550M H ARGB</text>
+    <text x="32" y="372" font-weight="bold" fill="#1a1a1a">显示器</text>
+    <text x="118" y="372" fill="#333333">冠捷 AOC 27B30H（27 英寸）</text>
+    <text x="32" y="412" font-weight="bold" fill="#1a1a1a">主硬盘</text>
+    <text x="118" y="412" fill="#333333">KINGSTON SNV3S1000G（932 GB / 固态硬盘）</text>
+    <text x="32" y="452" font-weight="bold" fill="#1a1a1a">网卡</text>
+    <text x="118" y="452" fill="#333333">Realtek PCIe GbE Family Controller</text>
+  </g>
+  <!-- status bar -->
+  <rect x="0" y="532" width="760" height="28" fill="#f7f7f7"/>
+  <line x1="0" y1="532" x2="760" y2="532" stroke="#e0e0e0"/>
+  <text x="12" y="550" font-size="11.5" fill="#555555">检测完成：2026-10-31 10:55:29</text>
+</svg>
